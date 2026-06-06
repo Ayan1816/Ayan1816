@@ -15,9 +15,10 @@ Web3 enthusiast focused on blockchain, DeAI, and decentralized infrastructure. P
 ---
 
 ### 💼 My Experience
+
 | Role | Area |
 | :--- | :--- |
-| 🛡️ Moderator | Nesa Project |
+| 🛡️ Moderator | Web3 Community Building |
 | ⭐ OG Ambassador | dTelecom |
 | ✍️ Content Creator | Web3 & DeAI Education |
 
