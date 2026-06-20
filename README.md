@@ -33,6 +33,22 @@ Web3 enthusiast focused on blockchain, DeAI, and decentralized infrastructure. P
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayan1816&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan1816&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ayan1816&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayan1816&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
 ### 📬 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-ffffff?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/ayan_ar65)
@@ -41,3 +57,4 @@ Web3 enthusiast focused on blockchain, DeAI, and decentralized infrastructure. P
 
 ---
 *Made with ❤️ by Ayan*
+
